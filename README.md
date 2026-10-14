@@ -530,3 +530,5 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Stephen Akinyemi](https://github.com/appcypher) has waived all copyright and related or neighboring rights to this work.
+
+- [M2M Market — Freedom Engine](https://github.com/m2mfreedom/freedom-m2m-mcp-server) - Autonomous HTTP 402 M2M API Gateway & Task Clearinghouse (L402 Bitcoin Lightning & x402 Base/Solana USDC) offering Stealth Web Unlocking, Structured Financial Extraction, Isolated Python Sandbox, and Persistent Agent Memory Vault (100/100 SLA).
